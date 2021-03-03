@@ -1,4 +1,6 @@
 # crouton: Chromium OS Universal Chroot Environment
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FSusanSSong%2Fcrouton.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2FSusanSSong%2Fcrouton?ref=badge_shield)
+
 
 crouton is a set of scripts that bundle up into an easy-to-use,
 Chromium OS-centric chroot generator. Currently Ubuntu and Debian are
@@ -371,3 +373,6 @@ crouton (including this eloquently-written README) is copyright &copy; 2016 The
 crouton Authors. All rights reserved. Use of the source code included here is
 governed by a BSD-style license that can be found in the LICENSE file in the
 source tree.
+
+
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FSusanSSong%2Fcrouton.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2FSusanSSong%2Fcrouton?ref=badge_large)
